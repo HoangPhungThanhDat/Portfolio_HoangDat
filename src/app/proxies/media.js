@@ -1,6 +1,4 @@
 import websites from "../consts/websites"
-
-
 export default {
     get(target, name) {
         if (name === "emailRaw") 

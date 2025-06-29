@@ -1,5 +1,4 @@
 import proxy from "../proxies/media"
-
 const media = {
     discord: {
         tag: "Linkedin Hoàng Đạt",
@@ -9,13 +8,13 @@ const media = {
         name: "",
     },
     github: "HoangPhungThanhDat",
-    figma: "elias_dev",
-    replit: "EliasDev",
-    codewars: "EliasDevis",
-    devTo: "eliasdevis",
-    cssBattle: "elias_dev",
-    codepen: "elias_dev",
-    dribble: "Elias_dev",
+    figma: "",
+    replit: "",
+    codewars: "",
+    devTo: "",
+    cssBattle: "",
+    codepen: "",
+    dribble: "",
     email: "dat147714@gmail.com"
 
 }
