@@ -1,0 +1,23 @@
+.skill-block
+    border: 1px solid var(--gray)
+    display: inline-block
+    max-width: 300px
+    flex-grow: 1
+    flex-shrink: 1
+    flex-basis: 0
+    background-color: black // 👈 thêm nền đen vào đây
+    color: white // 👈 đảm bảo chữ dễ nhìn nếu nền tối
+
+    &__name
+        font-weight: 600
+        padding: 8px
+        border-bottom: 1px solid var(--gray)
+
+    &__list
+        padding: 8px
+        display: flex
+        flex-wrap: wrap
+        gap: 8px
+        justify-content: start
+        align-items: start
+        color: var(--gray)

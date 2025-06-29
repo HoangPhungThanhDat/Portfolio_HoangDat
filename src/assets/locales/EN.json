@@ -1,0 +1,125 @@
+{
+  "header": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contacts": "Contact"
+  },
+  "footer": {
+    "description": "I'm Hoàng Phùng Thành Đạt, a web developer passionate about creativity and technology.",
+    "copyright": "2025. All rights reserved. Designed by Hoàng_Đạt",
+    "media": "Social Media"
+  },
+  "skills": {
+    "language": "Language",
+    "database": "Database",
+    "other": "Other",
+    "tool": "Tool",
+    "framework": "Framework",
+    "Kỹ_Năng_Làm_Việc_Nhóm": "Teamwork Skills"
+  },
+  "projects": {
+    "Website bán cafe": {
+      "name": "Coffee Shop Website",
+      "description": "Coffee shop website using JavaScript and Node.js"
+    },
+    "Website bán điện tử điện máy xanh": {
+      "name": "Electronics Retail Website",
+      "description": "Electronics e-commerce website using Java Spring Boot"
+    },
+    "App bán gà rán Popeyes": {
+      "name": "Popeyes Fried Chicken App",
+      "description": "Popeyes fried chicken app built with React Native"
+    },
+    "Website bán giày Snacker": {
+      "name": "Snacker Shoes Website",
+      "description": "Snacker shoes e-commerce website built with pure PHP"
+    },
+    "Website đặt vé xe online FUTA": {
+      "name": "FUTA Online Bus Booking Website",
+      "description": "Online bus ticket booking website for FUTA"
+    },
+    "Website bán điện thoại ": {
+      "name": "Mobile Phone E-commerce Website",
+      "description": "Mobile phone e-commerce website built with Laravel"
+    }
+  },
+  "pages": {
+    "home": {
+      "hero": {
+        "title": [
+          "Hello, I'm",
+          " Hoàng Phùng Thành Đạt"
+        ],
+        "description": "As a self-taught web developer from Vietnam, I can develop modern and user-friendly websites.",
+        "button": "Contact Me",
+        "status": "Open to new opportunities"
+      },
+      "quote": {
+        "text": "Clean code is great, but running code is better.",
+        "author": "Hoàng_Đạt"
+      },
+      "projects": {
+        "title": "Projects",
+        "button": "View All"
+      },
+      "skills": {
+        "title": "Skills"
+      },
+      "about": {
+        "title": "About Me",
+        "description": [
+          "🎓 Education: Cao đẳng Công Thương (Industrial College).",
+          "💻 Major: Information Technology.",
+          "📍 Location: Ho Chi Minh City.",
+          "✨ Self-Introduction.",
+          "Hello! I am a passionate Web Developer with a love for creativity and building tech solutions. With hands-on experience in both Frontend & Backend development, I'm always seeking opportunities to apply and enhance my skills in a professional environment.",
+          "🎯 Career Goals.",
+          "I aspire to join a dynamic tech company where I can apply my knowledge and experience to create quality products. At the same time, I aim to continuously learn and grow to become an expert in the Web development field."
+        ],
+        "button": "Read More"
+      },
+      "contacts": {
+        "title": "Contact",
+        "text": "I’m currently seeking new opportunities. If you have any questions, don’t hesitate to reach out.",
+        "media": "Contact here",
+        "donate": "Support here"
+      }
+    },
+    "projects": {
+      "description": "My projects",
+      "decent": "Featured",
+      "inProgress": "In Progress"
+    },
+    "about": {
+      "description": "About Me",
+      "about": {
+        "title": "About Me",
+        "description": [
+          "🎓 Education: Cao đẳng Công Thương (Industrial College).",
+          "💻 Major: Information Technology.",
+          "📍 Location: Ho Chi Minh City.",
+          "✨ Self-Introduction.",
+          "Hello! I am a passionate Web Developer with a love for creativity and building tech solutions. With hands-on experience in both Frontend & Backend development, I'm always seeking opportunities to apply and enhance my skills in a professional environment.",
+          "🎯 Career Goals.",
+          "I aspire to join a dynamic tech company where I can apply my knowledge and experience to create quality products. At the same time, I aim to continuously learn and grow to become an expert in the Web development field."
+        ]
+      },
+      "skills": {
+        "title": "Skills"
+      },
+      "facts": {
+        "title": "About Me",
+        "list": [
+          "I enjoy exploring new technologies to stay ahead in the industry.",
+          "I’m highly motivated and constantly seek out real-world experience and knowledge from peers to become a better version of myself.",
+          "I believe learning has no limits, and I embrace every challenge as a chance to grow.",
+          "I learn not just to know, but to apply — and to deliver real value through what I build."
+        ]
+      }
+    },
+    "contacts": {
+      "description": "How to get in touch with me"
+    }
+  }
+}

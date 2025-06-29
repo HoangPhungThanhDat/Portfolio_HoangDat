@@ -1,0 +1,128 @@
+{
+    "header": {
+      "home": "Trang Chủ",
+      "projects": "Dự Án",
+      "about": "Giới Thiệu",
+      "contacts": "Liên Hệ"
+    },
+    "footer": {
+      "description": "Tôi là Hoàng Phùng Thành Đạt, một lập trình viên web với đam mê sáng tạo và công nghệ.",
+      "copyright": "2025. Tất cả quyền được bảo lưu. Thiết kế bởi Hoàng_Đạt",
+      "media": "Mạng xã hội"
+    },
+    "skills": {
+      "language": "Ngôn ngữ",
+      "database": "Cơ sở dữ liệu",
+      "other": "Khác",
+      "tool": "Công cụ",
+      "framework": "framework",
+      "Kỹ_Năng_Làm_Việc_Nhóm": "Kỹ Năng Làm Việc Nhóm"
+    },
+    "projects": {
+      "Website bán cafe": {
+        "name": "Website bán cafe",
+        "description": "Website bán cafe javacript và nodejs"
+      },
+      "Website bán điện tử điện máy xanh": {
+        "name": "Website bán điện tử điện máy xanh",
+        "description": "Website bán điện tử điện máy xanh JAVA Spring Boot"
+      },
+     
+      "App bán gà rán Popeyes": {
+        "name": "App bán gà rán Popeyes",
+        "description": "App bán gà rán Popeyes React Native"
+      },
+      
+      "Website bán giày Snacker": {
+        "name": "Website bán giày Snacker",
+        "description": "Website bán giày Snacker PHP thuần"
+      },
+      "Website đặt vé xe online FUTA": {
+        "name": "Website đặt vé xe online FUTA",
+        "description": "Website đặt vé xe onlone FUTA"
+      },
+      "Website bán điện thoại ": {
+        "name": "Website bán điện thoại ",
+        "description": "Website bán điện thoại thương mại điện tử LARAVEL"
+      }
+    },
+    "pages": {
+      "home": {
+        "hero": {
+          "title": [
+           "Xin chào Tôi là",
+           " Hoàng Phùng Thành Đạt"
+          ],
+          "description": "Là 1 lập trình viên web developer tự học đến từ Việt Nam, tôi có thể phát triển các trang web hiện đại và dễ sử dụng.",
+          "button": "Liên hệ với tôi",
+          "status": "Sẵn sàng nhận công việc mới"
+        },
+        "quote": {
+          "text": "Code hay không bằng chạy đúng.",
+          "author": "Hoàng_Đạt"
+        },
+        "projects": {
+          "title": "Dự án",
+          "button": "Xem tất cả"
+        },
+        "skills": {
+          "title": "Kỹ năng"
+        },
+        "about": {
+          "title": "Giới thiệu về tôi",
+          "description": [
+            "🎓 Học vấn: Cao đẳng Công Thương. ",
+            "💻 Chuyên ngành: Công Nghệ Thông Tin. ",
+            "📍 Địa điểm: TP. Hồ Chí Minh. ",
+            "✨ Giới Thiệu Bản Thân .",
+            "Xin chào! Tôi là một lập trình viên Web đầy nhiệt huyết với niềm đam mê sáng tạo và phát triển các giải pháp công nghệ. Với kinh nghiệm thực chiến trong lập trình Frontend & Backend, tôi luôn tìm kiếm cơ hội để áp dụng và nâng cao kỹ năng của mình trong môi trường chuyên nghiệp.",
+            "🎯 Mục Tiêu Nghề Nghiệp .",
+            "Tôi mong muốn được gia nhập một công ty công nghệ năng động, nơi tôi có thể vận dụng kiến thức và kinh nghiệm của mình để phát triển các sản phẩm chất lượng. Đồng thời, không ngừng học hỏi, nâng cao kỹ năng để trở thành một chuyên gia trong lĩnh vực lập trình Web"
+          ],
+          "button": "Xem thêm"
+        },
+        "contacts": {
+          "title": "Liên hệ",
+          "text": "Tôi đang tìm kiếm các cơ hội làm việc . Nếu bạn có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ.",
+          "media": "Liên hệ tại đây",
+          "donate": "Ủng hộ tại đây"
+        }
+      },
+      "projects": {
+        "description": "Các dự án của tôi",
+        "decent": "Đáng chú ý",
+        "inProgress": "Đang phát triển"
+      },
+      "about": {
+        "description": "Giới thiệu về tôi",
+        "about": {
+         "title": "Giới thiệu về tôi",
+          "description": [
+            "🎓 Học vấn: Cao đẳng Công Thương. ",
+            "💻 Chuyên ngành: Công Nghệ Thông Tin. ",
+            "📍 Địa điểm: TP. Hồ Chí Minh. ",
+            "✨ Giới Thiệu Bản Thân .",
+            "Xin chào! Tôi là một lập trình viên Web đầy nhiệt huyết với niềm đam mê sáng tạo và phát triển các giải pháp công nghệ. Với kinh nghiệm thực chiến trong lập trình Frontend & Backend, tôi luôn tìm kiếm cơ hội để áp dụng và nâng cao kỹ năng của mình trong môi trường chuyên nghiệp.",
+            "🎯 Mục Tiêu Nghề Nghiệp .",
+            "Tôi mong muốn được gia nhập một công ty công nghệ năng động, nơi tôi có thể vận dụng kiến thức và kinh nghiệm của mình để phát triển các sản phẩm chất lượng. Đồng thời, không ngừng học hỏi, nâng cao kỹ năng để trở thành một chuyên gia trong lĩnh vực lập trình Web"
+          ]
+        },
+        "skills": {
+          "title": "Kỹ năng"
+        },
+        "facts": {
+          "title": "Thông tin về tôi",
+          "list": [
+            "Tôi thích tìm hiểu về công nghệ mới",
+            "Tôi có tinh thần cầu tiến, luôn tìm kiếm cơ hội học hỏi từ dự án thực tế và đồng nghiệp để trở thành phiên bản tốt hơn mỗi ngày.",
+            "Tôi tin rằng việc học hỏi không bao giờ có giới hạn, và tôi sẵn sàng đón nhận thử thách như một cơ hội để phát triển.",
+            "Tôi không chỉ học để biết, mà học để làm – và làm để tạo ra giá trị."
+          ]
+        }
+      },
+      "contacts": {
+        "description": "Liên hệ với tôi như thế nào"
+      }
+    }
+  }
+  
