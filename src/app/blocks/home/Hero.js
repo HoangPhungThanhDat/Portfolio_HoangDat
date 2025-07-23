@@ -99,7 +99,7 @@ export default (t) => {
                 <h1 class="hero__title">${t.title}</h1>
                 <div class="hero__description">${t.description}</div>
                  <a class="button button__primary" href="#contacts">${t.button} =></a>
-                <a class="button button__secondary" href="/images/CV_HoangDat_PHP.pdf" download>Tải CV</a>
+                <a class="button button__secondary" href="/images/CV_HoangDat_PHP.pdf" download>Tải và xem CV</a>
             </div>
 
             <div class="hero__illustrations">
