@@ -6,7 +6,8 @@ const projects = [
         id: "Website đặt vé xe online FUTA",
         links: {
             live: "hethongdatvexeonline.wuaze.com",
-            github: "HoangPhungThanhDat"
+            github: "HoangPhungThanhDat",
+            Giới_thiệu: "Dự án này giúp người dùng đặt vé xe trực tuyến một cách dễ dàng và nhanh chóng.",
         },
         techs: ["PHP", "MySQL", "html", "css", "js", "bootstrap"],
         hasImage: true,
@@ -16,6 +17,7 @@ const projects = [
         links: {
             live: "#",
             github: "HoangPhungThanhDat",
+            Giới_thiệu: "",
         },
         techs: ["PHP", "MySQL", "html", "css", "js", "bootstrap"],
         hasImage: true
@@ -25,6 +27,7 @@ const projects = [
         links: {
             live: "#",
             github: "HoangPhungThanhDat",
+            Giới_thiệu: "",
         },
         techs: ["PHP", "MySQL", "html", "css", "js", "bootstrap"],
         hasImage: true,
@@ -34,6 +37,7 @@ const projects = [
         links: {
             live: "#",
             github: "HoangPhungThanhDat",
+            Giới_thiệu: "",
         },
         techs: ["TypeScript", "API", "ReactNative"],
         hasImage: true,
@@ -44,6 +48,7 @@ const projects = [
         links: {
             live: "#",
             github: "HoangPhungThanhDat",
+            Giới_thiệu: "",
         },
         hasImage: true,
     },
@@ -53,6 +58,7 @@ const projects = [
         links: {
             live: "#",
             github: "HoangPhungThanhDat",
+            Giới_thiệu: "",
         },
         hasImage: true,
     },
