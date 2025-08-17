@@ -46,3 +46,83 @@
         left: 40%
         position: absolute
     
+
+
+
+
+
+
+.skills
+  padding: 80px 20px
+  color: #fff
+  position: relative
+
+  .h2
+    font-size: 32px
+    font-weight: 700
+    text-align: center
+    margin-bottom: 48px
+    text-transform: uppercase
+    color: var(--primary, #00f2ea)
+
+  .skills__list
+    display: grid
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr))
+    gap: 32px
+    max-width: 1200px
+    margin: 0 auto
+
+  .skill-card
+    background: #111
+    border-radius: 12px
+    padding: 24px
+    box-shadow: -4px 4px 0px #fff, 4px 4px 12px rgba(0,0,0,0.6)
+    transition: all 0.3s ease
+
+    &:hover
+      transform: translateY(-5px)
+      box-shadow: -4px 4px 0px #fff, 6px 6px 16px rgba(0,0,0,0.8)
+
+    &__title
+      font-size: 18px
+      font-weight: 600
+      margin-bottom: 20px
+      color: var(--primary, #00f2ea)
+
+    &__items
+      display: flex
+      flex-wrap: wrap
+      gap: 12px
+
+      .skill-item
+        background: #fff
+        color: #000
+        border-radius: 6px
+        padding: 6px 14px
+        font-size: 14px
+        font-weight: 500
+        white-space: nowrap
+        transition: all 0.3s ease
+        display: inline-block
+
+        &:hover
+          background: var(--primary, #00f2ea)
+          color: #000
+
+// Responsive cho mobile
+@media (max-width: 576px)
+  .skills
+    padding: 40px 16px
+
+    .h2
+      font-size: 24px
+      margin-bottom: 32px
+
+    .skills__list
+      grid-template-columns: 1fr
+      gap: 20px
+
+    .skill-item
+      flex: 1 1 auto
+      font-size: 13px
+      padding: 6px 12px

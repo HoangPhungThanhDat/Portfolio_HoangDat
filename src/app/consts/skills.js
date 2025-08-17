@@ -8,8 +8,7 @@ export default {
         "Giao_tiếp_hiệu_quả",
         "Lắng_nghe_tích_cực",
         "Hợp_tác_và_hỗ_trợ_đồng_đội",
-        "Quản_lý_thời_gian_nhóm",
-        "Ra_quyết_định_theo_nhóm"
+        "Quản_lý_thời_gian",
+       
       ]
-      
 }

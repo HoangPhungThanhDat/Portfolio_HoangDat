@@ -3,7 +3,8 @@
     "home": "Home",
     "projects": "Projects",
     "about": "About",
-    "contacts": "Contact"
+    "contacts": "Contact",
+     "blog": "Blog"
   },
   "footer": {
     "description": "I'm Hoàng Phùng Thành Đạt, a web developer passionate about creativity and technology.",
@@ -48,8 +49,7 @@
     "home": {
       "hero": {
         "title": [
-          "Hello, I'm",
-          " Hoàng Phùng Thành Đạt"
+          "Hello, I'm,  Hoàng Phùng Thành Đạt"
         ],
         "description": "As a self-taught web developer from Vietnam, I can develop modern and user-friendly websites.",
         "button": "Contact Me",

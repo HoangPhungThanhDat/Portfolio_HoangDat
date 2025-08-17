@@ -3,7 +3,8 @@
       "home": "Trang Chủ",
       "projects": "Dự Án",
       "about": "Giới Thiệu",
-      "contacts": "Liên Hệ"
+      "contacts": "Liên Hệ",
+      "blog": "Blog"
     },
     "footer": {
       "description": "Tôi là Hoàng Phùng Thành Đạt, một lập trình viên web với đam mê sáng tạo và công nghệ.",
@@ -49,9 +50,8 @@
     "pages": {
       "home": {
         "hero": {
-          "title": [
-           "Xin chào Tôi là",
-           " Hoàng Phùng Thành Đạt"
+          "title": [       
+           "Xin chào tôi là, Hoàng Phùng Thành Đạt"
           ],
           "description": "Là 1 lập trình viên web developer tự học đến từ Việt Nam, tôi có thể phát triển các trang web hiện đại và dễ sử dụng.",
           "button": "Liên hệ với tôi",

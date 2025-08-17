@@ -1,5 +1,4 @@
 import ProjectList from "@/components/ProjectList";
-
 export default (t, t2) => {
     return /*html*/ `
         <section class="projects">

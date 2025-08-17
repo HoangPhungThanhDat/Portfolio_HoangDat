@@ -1,16 +1,5 @@
 export default (t) => {
     return /*html*/ `
-    <style>
-    .about {
-    color: white;
-    }
-
-    .about .about__description,
-    .about .h2,
-    .about .button {
-        color: white;
-    }
-
     </style>
         <section class="about">
             <div class="about__content">
