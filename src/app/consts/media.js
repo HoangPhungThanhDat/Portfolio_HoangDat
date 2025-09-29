@@ -8,13 +8,8 @@ const media = {
         name: "",
     },
     github: "HoangPhungThanhDat",
-    figma: "",
-    replit: "",
-    codewars: "",
-    devTo: "",
-    cssBattle: "",
-    codepen: "",
-    dribble: "",
+    
+    telegram:"www.facebook.com/profile.php?id=100040967318985&mibextid=ZbWKwL",
     email: "dat147714@gmail.com"
 
 }

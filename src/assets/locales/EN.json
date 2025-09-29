@@ -51,7 +51,8 @@
         "title": [
           "Hello, I'm,  Hoàng Phùng Thành Đạt"
         ],
-        "description": "As a self-taught web developer from Vietnam, I can develop modern and user-friendly websites.",
+        "description": "I am a Web Developer passionate about technology and self-taught from the very beginning. With skills in both Frontend and Backend development.",
+
         "button": "Contact Me",
         "status": "Open to new opportunities"
       },
@@ -69,16 +70,17 @@
       "about": {
         "title": "About Me",
         "description": [
-          "🎓 Education: Cao đẳng Công Thương (Industrial College).",
-          "💻 Major: Information Technology.",
-          "📍 Location: Ho Chi Minh City.",
-          "✨ Self-Introduction.",
-          "Hello! I am a passionate Web Developer with a love for creativity and building tech solutions. With hands-on experience in both Frontend & Backend development, I'm always seeking opportunities to apply and enhance my skills in a professional environment.",
-          "🎯 Career Goals.",
-          "I aspire to join a dynamic tech company where I can apply my knowledge and experience to create quality products. At the same time, I aim to continuously learn and grow to become an expert in the Web development field."
+          "🎓 Education: Cao Dang Cong Thuong College",
+          "💻 Major: Information Technology",
+          "📍 Based in: Ho Chi Minh City, Vietnam",
+          "🚀 About Me",
+          "Hello! I am a Web Developer with a passion for creating practical and meaningful digital products. I love turning ideas into intuitive, user-friendly interfaces and I am always ready to take on new challenges in both Frontend & Backend development.",
+          "🎯 Career Goals",
+          "I aspire to join a dynamic technology company where I can apply my knowledge and experience to build high-quality products. At the same time, I continuously strive to improve my skills to become a well-rounded Web Development expert."
         ],
         "button": "Read More"
       },
+
       "contacts": {
         "title": "Contact",
         "text": "I’m currently seeking new opportunities. If you have any questions, don’t hesitate to reach out.",
