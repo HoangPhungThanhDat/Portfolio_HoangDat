@@ -26,6 +26,8 @@
     "developer": "npm run serve"
   },
   "dependencies": {
-    "aos": "^2.3.4"
+    "aos": "^2.3.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   }
 }

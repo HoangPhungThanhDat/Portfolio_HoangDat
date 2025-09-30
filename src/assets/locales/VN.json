@@ -56,7 +56,7 @@
           ],
         "description": "Tôi là một Web Developer đam mê công nghệ và tự học lập trình từ những ngày đầu. Với khả năng phát triển cả Frontend lẫn Backend.", 
 
-          "button": "Liên hệ với tôi",
+          "button": "Liên hệ",
           "status": "Sẵn sàng nhận công việc mới"
         },
         "quote": {
@@ -76,7 +76,7 @@
             "🎓 Học vấn: CAO ĐẲNG CÔNG THƯƠNG",
             "💻 Chuyên ngành: Công Nghệ Thông Tin",
             "📍 Sinh sống & làm việc tại: TP. Hồ Chí Minh",
-            "✨ Về tôi",
+            "🚀 Về tôi",
             "Xin chào! Tôi là một lập trình viên Web với niềm đam mê sáng tạo ra những sản phẩm có giá trị thực tiễn. Tôi yêu thích việc biến ý tưởng thành các giao diện trực quan, dễ sử dụng, và luôn sẵn sàng chinh phục những thử thách mới trong lập trình Frontend & Backend.",
             "🎯 Mục tiêu nghề nghiệp",
             "Tôi mong muốn được đồng hành cùng một môi trường công nghệ năng động, nơi bản thân có thể phát huy năng lực, đóng góp giá trị cho sản phẩm và đội ngũ. Đồng thời, không ngừng trau dồi kỹ năng để hướng đến trở thành một chuyên gia lập trình Web toàn diện."
@@ -101,13 +101,12 @@
         "about": {
          "title": "Giới thiệu về tôi",
           "description": [
-            "🎓 Học vấn: Cao đẳng Công Thương. ",
-            "💻 Chuyên ngành: Công Nghệ Thông Tin. ",
-            "📍 Địa điểm: TP. Hồ Chí Minh. ",
-            "✨ Giới Thiệu Bản Thân .",
-            "Xin chào! Tôi là một lập trình viên Web đầy nhiệt huyết với niềm đam mê sáng tạo và phát triển các giải pháp công nghệ. Với kinh nghiệm thực chiến trong lập trình Frontend & Backend, tôi luôn tìm kiếm cơ hội để áp dụng và nâng cao kỹ năng của mình trong môi trường chuyên nghiệp.",
-            "🎯 Mục Tiêu Nghề Nghiệp .",
-            "Tôi mong muốn được gia nhập một công ty công nghệ năng động, nơi tôi có thể vận dụng kiến thức và kinh nghiệm của mình để phát triển các sản phẩm chất lượng. Đồng thời, không ngừng học hỏi, nâng cao kỹ năng để trở thành một chuyên gia trong lĩnh vực lập trình Web"
+            "🎓 Học vấn: CAO ĐẲNG CÔNG THƯƠNG",
+            "💻 Chuyên ngành: Công Nghệ Thông Tin",
+            "📍 Sinh sống & làm việc tại: TP. Hồ Chí Minh",
+            "Xin chào! Tôi là một lập trình viên Web với niềm đam mê sáng tạo ra những sản phẩm có giá trị thực tiễn. Tôi yêu thích việc biến ý tưởng thành các giao diện trực quan, dễ sử dụng, và luôn sẵn sàng chinh phục những thử thách mới trong lập trình Frontend & Backend.",
+            "🎯 Mục tiêu nghề nghiệp",
+            "Tôi mong muốn được đồng hành cùng một môi trường công nghệ năng động, nơi bản thân có thể phát huy năng lực, đóng góp giá trị cho sản phẩm và đội ngũ. Đồng thời, không ngừng trau dồi kỹ năng để hướng đến trở thành một chuyên gia lập trình Web toàn diện."
           ]
         },
         "skills": {

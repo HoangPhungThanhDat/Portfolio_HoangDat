@@ -7,7 +7,7 @@ import "styles/pages/about.sass"
 
 export default (t, locale) => {
     return /*html*/ `
-        ${Path({ description: t.description })}
+     
         ${About(t.about)}
         ${Skills(t.skills, locale.skills)}
         ${Facts(t.facts)}
